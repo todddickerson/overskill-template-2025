@@ -1,7 +1,10 @@
 {
-  "name": "overskill-app",
+  "name": "overskill-template-2025",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "Modern React + TypeScript template with Vite, Tailwind CSS, shadcn/ui, and production-ready integrations",
+  "author": "OverSkill",
+  "license": "MIT",
   "type": "module",
   "scripts": {
     "dev": "vite",
